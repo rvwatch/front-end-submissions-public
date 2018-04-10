@@ -35,4 +35,8 @@ Graphing the fitbit data and allowing users to interact with said graph... I'm r
 
 #### Deliverables for next checkin:
 
-*
+* Find and impliment and NPM Graph for heart rate data
+* Fleshed out WireFrame built in Sketch
+* Graph of HR over 24hrs in place
+* UI element that displays current HR
+* Updates to data every minute
